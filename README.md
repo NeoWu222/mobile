@@ -9,7 +9,7 @@ my first mobile repository
 
 ## 将此代码仓库克隆至本地
 
-1. 在git shell命令行中使用`git clone "代码仓库的地址"（代码仓库的url.git）`克隆至本地，默认是克隆至命令行当前所在的文件夹
+在git shell命令行中使用`git clone "代码仓库的地址"（代码仓库的url.git）`克隆至本地，默认是克隆至命令行当前所在的文件夹
 
 ## 作为npm项目初始化
 
