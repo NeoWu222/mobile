@@ -39,6 +39,7 @@ cd进入当前项目，然后在cmd命令行中使用`npm init`，根据提示�
 2. `git pull`将远程代码仓库中修改的内容同步拉取至本地代码仓库
 3. `git add *`将项目中的所有未被.gitignore的文件添加至即将上传至本地仓库的暂存区
 4. `git status`查看暂存区的即将被上传的文件
-5. *`git reset`如果发现`git add`操作有误，可以使用此命令回退
+5. \*`git reset`如果发现`git add`操作有误，可以使用此命令回退
 6. `git commit -m "this is my first mobile project"`提交代码值本地并且必须书写注释
-7. `git push`提交代码至远程代码仓库
+7. \*`git pull`如果远程仓库进行了修改，才需要将远程仓库中修改的内容同步拉取至本地代码仓库
+8. `git push`提交代码至远程代码仓库
